@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="0 Movistar">
+    <display-name lang="es">0 Movistar</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="13 TV">
+    <display-name lang="es">13 TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="3/24">
+    <display-name lang="es">3/24</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="7 Región de Murcia">
+    <display-name lang="es">7 Región de Murcia</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="8TV">
+    <display-name lang="es">8TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Andalucía TV">
+    <display-name lang="es">Andalucía TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Aragón TV">
+    <display-name lang="es">Aragón TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Atreseries">
+    <display-name lang="es">Atreseries</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="es">AXN White</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Barça TV">
+    <display-name lang="es">Barça TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Be Mad">
+    <display-name lang="es">Be Mad</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="BeIN LaLiga">
+    <display-name lang="es">BeIN LaLiga</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="BeIN Sports">
+    <display-name lang="es">BeIN Sports</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Boing">
+    <display-name lang="es">Boing</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Betevé">
+    <display-name lang="es">Betevé</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Buzz">
+    <display-name lang="es">Buzz</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Calle 13">
+    <display-name lang="es">Calle 13</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Canal 24h">
+    <display-name lang="es">Canal 24h</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Canal 7 Televalencia">
+    <display-name lang="es">Canal 7 Televalencia</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Canal Cocina">
+    <display-name lang="es">Canal Cocina</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Canal Extremadura TV">
+    <display-name lang="es">Canal Extremadura TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Canal Panda">
+    <display-name lang="es">Canal Panda</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Canal Sur">
+    <display-name lang="es">Canal Sur</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Canal Sur Andalucía">
+    <display-name lang="es">Canal Sur Andalucía</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Castilla - La Mancha TV">
+    <display-name lang="es">Castilla - La Mancha TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Clan TVE">
+    <display-name lang="es">Clan TVE</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="es">Comedy Central</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Cosmopolitan">
+    <display-name lang="es">Cosmopolitan</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Cuatro">
+    <display-name lang="es">Cuatro</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="CyLTV">
+    <display-name lang="es">CyLTV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Dark">
+    <display-name lang="es">Dark</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Decasa">
+    <display-name lang="es">Decasa</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="es">Disney Channel</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="es">Disney Junior</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="es">Disney XD</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Divinity">
+    <display-name lang="es">Divinity</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Dkiss">
+    <display-name lang="es">Dkiss</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="es">DMAX</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Energy">
+    <display-name lang="es">Energy</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Esport 3">
+    <display-name lang="es">Esport 3</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="ETB 1">
+    <display-name lang="es">ETB 1</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="ETB 2">
+    <display-name lang="es">ETB 2</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="ETB 3">
+    <display-name lang="es">ETB 3</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="ETB 4">
+    <display-name lang="es">ETB 4</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="es">Eurosport</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Extreme Sports">
+    <display-name lang="es">Extreme Sports</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="FDF Telecinco">
+    <display-name lang="es">FDF Telecinco</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="es">FOX</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="es">Fox Life</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Gol TV">
+    <display-name lang="es">Gol TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Historia">
+    <display-name lang="es">Historia</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Hollywood">
+    <display-name lang="es">Hollywood</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="IB3">
+    <display-name lang="es">IB3</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Intereconomía TV">
+    <display-name lang="es">Intereconomía TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La 1">
+    <display-name lang="es">La 1</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La 1 Catalunya">
+    <display-name lang="es">La 1 Catalunya</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La 1 Madrid">
+    <display-name lang="es">La 1 Madrid</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La 2">
+    <display-name lang="es">La 2</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La 2 Catalunya">
+    <display-name lang="es">La 2 Catalunya</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La 2 Madrid">
+    <display-name lang="es">La 2 Madrid</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La 8">
+    <display-name lang="es">La 8</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La 8 Burgos">
+    <display-name lang="es">La 8 Burgos</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La 8 Mediterráneo">
+    <display-name lang="es">La 8 Mediterráneo</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La Otra">
+    <display-name lang="es">La Otra</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="LaLiga 123 TV">
+    <display-name lang="es">LaLiga 123 TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="La Sexta">
+    <display-name lang="es">La Sexta</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Mega">
+    <display-name lang="es">Mega</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Moto GP">
+    <display-name lang="es">Moto GP</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar Accion">
+    <display-name lang="es">Movistar Accion</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar Cine Español">
+    <display-name lang="es">Movistar Cine Español</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar Comedia">
+    <display-name lang="es">Movistar Comedia</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar Drama">
+    <display-name lang="es">Movistar Drama</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar Deportes">
+    <display-name lang="es">Movistar Deportes</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar Deportes 2">
+    <display-name lang="es">Movistar Deportes 2</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar El Partidazo HD">
+    <display-name lang="es">Movistar El Partidazo HD</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar Estrenos">
+    <display-name lang="es">Movistar Estrenos</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar F1">
+    <display-name lang="es">Movistar F1</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar Fútbol">
+    <display-name lang="es">Movistar Fútbol</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar Series">
+    <display-name lang="es">Movistar Series</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar Seriesmanía">
+    <display-name lang="es">Movistar Seriesmanía</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Movistar CineDoc&amp;Roll">
+    <display-name lang="es">Movistar CineDoc&amp;Roll</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="MTV España">
+    <display-name lang="es">MTV España</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="es">National Geographic</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Navarra Televisión">
+    <display-name lang="es">Navarra Televisión</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Neox">
+    <display-name lang="es">Neox</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Nick Junior">
+    <display-name lang="es">Nick Junior</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="es">Nickelodeon</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Non Stop People">
+    <display-name lang="es">Non Stop People</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Nova">
+    <display-name lang="es">Nova</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Odisea">
+    <display-name lang="es">Odisea</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Onda Algeciras TV">
+    <display-name lang="es">Onda Algeciras TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="es">Paramount Channel</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Real Madrid TV">
+    <display-name lang="es">Real Madrid TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Somos">
+    <display-name lang="es">Somos</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Sundance Channel">
+    <display-name lang="es">Sundance Channel</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Super 3">
+    <display-name lang="es">Super 3</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="es">Syfy</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="es">TCM</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Tele Elx">
+    <display-name lang="es">Tele Elx</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Telecinco">
+    <display-name lang="es">Telecinco</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Teledeporte">
+    <display-name lang="es">Teledeporte</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Telemadrid">
+    <display-name lang="es">Telemadrid</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Televisión Canaria">
+    <display-name lang="es">Televisión Canaria</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Ten">
+    <display-name lang="es">Ten</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="TMV Valencia">
+    <display-name lang="es">TMV Valencia</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="TNT TPA">
+    <display-name lang="es">TNT TPA</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Toros TV">
+    <display-name lang="es">Toros TV</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="TPA">
+    <display-name lang="es">TPA</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="es">TV3</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="TVG">
+    <display-name lang="es">TVG</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="TVG2">
+    <display-name lang="es">TVG2</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+  <channel id="Viajar">
+    <display-name lang="es">Viajar</display-name>
+    <url>http://www.laguiatv.abc.es</url>
+  </channel>
+</tv>

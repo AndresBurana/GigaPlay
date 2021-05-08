@@ -1,0 +1,703 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO (100)">
+    <display-name lang="es">HBO (100)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HBO 2 (101)">
+    <display-name lang="es">HBO 2 (101)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HBO PLUS (102)">
+    <display-name lang="es">HBO PLUS (102)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HBO FAMILY (104)">
+    <display-name lang="es">HBO FAMILY (104)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HBO SIGNATURE (105)">
+    <display-name lang="es">HBO SIGNATURE (105)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="MAX (111)">
+    <display-name lang="es">MAX (111)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="MAX PRIME (112)">
+    <display-name lang="es">MAX PRIME (112)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM SERIES (115)">
+    <display-name lang="es">FOX PREMIUM SERIES (115)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM SERIES O (116)">
+    <display-name lang="es">FOX PREMIUM SERIES O (116)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM MOVIES (117)">
+    <display-name lang="es">FOX PREMIUM MOVIES (117)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM FAMILY (118)">
+    <display-name lang="es">FOX PREMIUM FAMILY (118)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM CLASSICS (119)">
+    <display-name lang="es">FOX PREMIUM CLASSICS (119)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM CINEMA (120)">
+    <display-name lang="es">FOX PREMIUM CINEMA (120)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM ACTION (121)">
+    <display-name lang="es">FOX PREMIUM ACTION (121)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CINECANAL (130)">
+    <display-name lang="es">CINECANAL (130)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CINEMAX (131)">
+    <display-name lang="es">CINEMAX (131)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TNT (132)">
+    <display-name lang="es">TNT (132)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="SPACE (133)">
+    <display-name lang="es">SPACE (133)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FX MOVIES (134)">
+    <display-name lang="es">FX MOVIES (134)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL (135)">
+    <display-name lang="es">STUDIO UNIVERSAL (135)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="I-SAT (136)">
+    <display-name lang="es">I-SAT (136)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TCM (137)">
+    <display-name lang="es">TCM (137)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="EUROCHANNEL (139)">
+    <display-name lang="es">EUROCHANNEL (139)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX (150)">
+    <display-name lang="es">FOX (150)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="WARNER (151)">
+    <display-name lang="es">WARNER (151)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="SONY (152)">
+    <display-name lang="es">SONY (152)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="AXN (153)">
+    <display-name lang="es">AXN (153)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL (154)">
+    <display-name lang="es">UNIVERSAL CHANNEL (154)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="AMC (155)">
+    <display-name lang="es">AMC (155)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TNT SERIES (156)">
+    <display-name lang="es">TNT SERIES (156)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FX (157)">
+    <display-name lang="es">FX (157)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="SY FY (158)">
+    <display-name lang="es">SY FY (158)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="A&amp;E MUNDO (159)">
+    <display-name lang="es">A&amp;E MUNDO (159)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FILM&amp;ARTS (160)">
+    <display-name lang="es">FILM&amp;ARTS (160)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISCOVERY ID (161)">
+    <display-name lang="es">DISCOVERY ID (161)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX LIFE (163)">
+    <display-name lang="es">FOX LIFE (163)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HBO HD (200)">
+    <display-name lang="es">HBO HD (200)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HBO PLUS HD (202)">
+    <display-name lang="es">HBO PLUS HD (202)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="MAX UP (214)">
+    <display-name lang="es">MAX UP (214)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM SERIES HD (215)">
+    <display-name lang="es">FOX PREMIUM SERIES HD (215)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM MOVIES HD (217)">
+    <display-name lang="es">FOX PREMIUM MOVIES HD (217)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM ACTION HD (221)">
+    <display-name lang="es">FOX PREMIUM ACTION HD (221)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX PREMIUM COMEDY HD (222)">
+    <display-name lang="es">FOX PREMIUM COMEDY HD (222)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CINECANAL HD (230)">
+    <display-name lang="es">CINECANAL HD (230)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CINEMAX HD (231)">
+    <display-name lang="es">CINEMAX HD (231)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TNT HD (232)">
+    <display-name lang="es">TNT HD (232)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="SPACE HD (233)">
+    <display-name lang="es">SPACE HD (233)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FX MOVIES HD (234)">
+    <display-name lang="es">FX MOVIES HD (234)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL HD (235)">
+    <display-name lang="es">STUDIO UNIVERSAL HD (235)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="EUROPA EUROPA (238)">
+    <display-name lang="es">EUROPA EUROPA (238)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="EUROCHANNEL HD (239)">
+    <display-name lang="es">EUROCHANNEL HD (239)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="SUNDANCE CHANNEL (240)">
+    <display-name lang="es">SUNDANCE CHANNEL (240)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="GOLDEN PLUS (246)">
+    <display-name lang="es">GOLDEN PLUS (246)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="GOLDEN PREMIER HD (247)">
+    <display-name lang="es">GOLDEN PREMIER HD (247)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX HD (250)">
+    <display-name lang="es">FOX HD (250)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="WARNER HD (251)">
+    <display-name lang="es">WARNER HD (251)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="SONY HD (252)">
+    <display-name lang="es">SONY HD (252)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="AXN HD (253)">
+    <display-name lang="es">AXN HD (253)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL HD (254)">
+    <display-name lang="es">UNIVERSAL CHANNEL HD (254)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="AMC HD (255)">
+    <display-name lang="es">AMC HD (255)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TNT SERIES HD (256)">
+    <display-name lang="es">TNT SERIES HD (256)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FX HD (257)">
+    <display-name lang="es">FX HD (257)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="A&amp;E MUNDO HD (259)">
+    <display-name lang="es">A&amp;E MUNDO HD (259)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FILM&amp;ARTS HD (260)">
+    <display-name lang="es">FILM&amp;ARTS HD (260)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="ATRESERIES (264)">
+    <display-name lang="es">ATRESERIES (264)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TBS (265)">
+    <display-name lang="es">TBS (265)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="ENTERTAINMENT TELEVISION (300)">
+    <display-name lang="es">ENTERTAINMENT TELEVISION (300)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HOME AND HEALTH (301)">
+    <display-name lang="es">HOME AND HEALTH (301)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="EL GOURMET (302)">
+    <display-name lang="es">EL GOURMET (302)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="MAS CHIC (303)">
+    <display-name lang="es">MAS CHIC (303)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="LIFETIME (304)">
+    <display-name lang="es">LIFETIME (304)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TRU TV (307)">
+    <display-name lang="es">TRU TV (307)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="PASIONES (308)">
+    <display-name lang="es">PASIONES (308)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="GLITZ (310)">
+    <display-name lang="es">GLITZ (310)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="IVC (313)">
+    <display-name lang="es">IVC (313)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISCOVERY (321)">
+    <display-name lang="es">DISCOVERY (321)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TLC (325)">
+    <display-name lang="es">TLC (325)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC (326)">
+    <display-name lang="es">NATIONAL GEOGRAPHIC (326)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="ANIMAL PLANET (328)">
+    <display-name lang="es">ANIMAL PLANET (328)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HISTORY (329)">
+    <display-name lang="es">HISTORY (329)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="H2 (330)">
+    <display-name lang="es">H2 (330)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HOME AND HEALTH HD (351)">
+    <display-name lang="es">HOME AND HEALTH HD (351)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="EL GOURMET HD (352)">
+    <display-name lang="es">EL GOURMET HD (352)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="MAS CHIC HD (354)">
+    <display-name lang="es">MAS CHIC HD (354)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HOLA TV (356)">
+    <display-name lang="es">HOLA TV (356)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TRU TV HD (358)">
+    <display-name lang="es">TRU TV HD (358)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="LAS ESTRELLAS HD (361)">
+    <display-name lang="es">LAS ESTRELLAS HD (361)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="KANAL D DRAMA (362)">
+    <display-name lang="es">KANAL D DRAMA (362)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISCOVERY HD (371)">
+    <display-name lang="es">DISCOVERY HD (371)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISCOVERY HD THEATER (372)">
+    <display-name lang="es">DISCOVERY HD THEATER (372)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISCOVERY WORLD HD (373)">
+    <display-name lang="es">DISCOVERY WORLD HD (373)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE HD (374)">
+    <display-name lang="es">DISCOVERY SCIENCE HD (374)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISCOVERY CIVILIZATION HD (375)">
+    <display-name lang="es">DISCOVERY CIVILIZATION HD (375)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD (376)">
+    <display-name lang="es">DISCOVERY TURBO HD (376)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NAT GEO HD (377)">
+    <display-name lang="es">NAT GEO HD (377)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NAT GEO WILD HD (378)">
+    <display-name lang="es">NAT GEO WILD HD (378)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="HISTORY HD (380)">
+    <display-name lang="es">HISTORY HD (380)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="H2 HD (381)">
+    <display-name lang="es">H2 HD (381)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CANAL 4 MONTECARLO (400)">
+    <display-name lang="es">CANAL 4 MONTECARLO (400)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="SAETA (401)">
+    <display-name lang="es">SAETA (401)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TELEDOCE (402)">
+    <display-name lang="es">TELEDOCE (402)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TV NACIONAL (403)">
+    <display-name lang="es">TV NACIONAL (403)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="VTV (404)">
+    <display-name lang="es">VTV (404)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="VTV + (405)">
+    <display-name lang="es">VTV + (405)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TEVECIUDAD (406)">
+    <display-name lang="es">TEVECIUDAD (406)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TELEDOCE HD (422)">
+    <display-name lang="es">TELEDOCE HD (422)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="VTV HD (424)">
+    <display-name lang="es">VTV HD (424)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NUEVO SIGLO TV (470)">
+    <display-name lang="es">NUEVO SIGLO TV (470)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NS EVENTOS 1 (471)">
+    <display-name lang="es">NS EVENTOS 1 (471)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NS EVENTOS 2 (472)">
+    <display-name lang="es">NS EVENTOS 2 (472)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NS EVENTOS 3 (473)">
+    <display-name lang="es">NS EVENTOS 3 (473)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NS EVENTOS HD (475)">
+    <display-name lang="es">NS EVENTOS HD (475)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NS EVENTOS 2 HD (476)">
+    <display-name lang="es">NS EVENTOS 2 HD (476)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="ESPN (500)">
+    <display-name lang="es">ESPN (500)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="ESPN 2 (501)">
+    <display-name lang="es">ESPN 2 (501)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX SPORTS (510)">
+    <display-name lang="es">FOX SPORTS (510)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX SPORTS 2 (511)">
+    <display-name lang="es">FOX SPORTS 2 (511)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX SPORTS 3 (512)">
+    <display-name lang="es">FOX SPORTS 3 (512)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TYC SPORTS (520)">
+    <display-name lang="es">TYC SPORTS (520)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="GOL TV (522)">
+    <display-name lang="es">GOL TV (522)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="PFC (524)">
+    <display-name lang="es">PFC (524)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="WOOHOO (533)">
+    <display-name lang="es">WOOHOO (533)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="ESPN HD (550)">
+    <display-name lang="es">ESPN HD (550)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="ESPN 2 HD (551)">
+    <display-name lang="es">ESPN 2 HD (551)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="ESPN + HD (553)">
+    <display-name lang="es">ESPN + HD (553)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX SPORTS HD (560)">
+    <display-name lang="es">FOX SPORTS HD (560)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD (561)">
+    <display-name lang="es">FOX SPORTS 2 HD (561)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX SPORTS 3 HD (562)">
+    <display-name lang="es">FOX SPORTS 3 HD (562)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TYC SPORTS HD (570)">
+    <display-name lang="es">TYC SPORTS HD (570)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NBA TV HD (575)">
+    <display-name lang="es">NBA TV HD (575)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CRONICA TV (601)">
+    <display-name lang="es">CRONICA TV (601)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CNN EN ESPAÑOL (602)">
+    <display-name lang="es">CNN EN ESPAÑOL (602)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="FOX NEWS (604)">
+    <display-name lang="es">FOX NEWS (604)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="BBC WORLD (605)">
+    <display-name lang="es">BBC WORLD (605)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="BLOOMBERG (606)">
+    <display-name lang="es">BLOOMBERG (606)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CANAL 24 HS (607)">
+    <display-name lang="es">CANAL 24 HS (607)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="A24 (616)">
+    <display-name lang="es">A24 (616)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TVE (620)">
+    <display-name lang="es">TVE (620)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="GALICIA TV (621)">
+    <display-name lang="es">GALICIA TV (621)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CANAL VASCO (622)">
+    <display-name lang="es">CANAL VASCO (622)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TV 5 (623)">
+    <display-name lang="es">TV 5 (623)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="RAI (624)">
+    <display-name lang="es">RAI (624)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DEUTSCHE WELLE (625)">
+    <display-name lang="es">DEUTSCHE WELLE (625)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="AMERICA 2 (627)">
+    <display-name lang="es">AMERICA 2 (627)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TVN CHILE (628)">
+    <display-name lang="es">TVN CHILE (628)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TV GLOBO (631)">
+    <display-name lang="es">TV GLOBO (631)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="REDE TV (632)">
+    <display-name lang="es">REDE TV (632)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="REDE RECORD (633)">
+    <display-name lang="es">REDE RECORD (633)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISNEY (700)">
+    <display-name lang="es">DISNEY (700)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISNEY XD (701)">
+    <display-name lang="es">DISNEY XD (701)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISNEY JR (702)">
+    <display-name lang="es">DISNEY JR (702)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISCOVERY KIDS (703)">
+    <display-name lang="es">DISCOVERY KIDS (703)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CARTOON NETWORK (704)">
+    <display-name lang="es">CARTOON NETWORK (704)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TOONCAST (705)">
+    <display-name lang="es">TOONCAST (705)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="BOOMERANG (706)">
+    <display-name lang="es">BOOMERANG (706)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NICK JR (707)">
+    <display-name lang="es">NICK JR (707)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NICKELODEON (708)">
+    <display-name lang="es">NICKELODEON (708)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="BABY TV (709)">
+    <display-name lang="es">BABY TV (709)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="NAT GEO KIDS (710)">
+    <display-name lang="es">NAT GEO KIDS (710)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISNEY HD (720)">
+    <display-name lang="es">DISNEY HD (720)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="DISCOVERY KIDS HD (723)">
+    <display-name lang="es">DISCOVERY KIDS HD (723)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="CARTOON NETWORK HD (724)">
+    <display-name lang="es">CARTOON NETWORK HD (724)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="EWTN (740)">
+    <display-name lang="es">EWTN (740)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="MTV (750)">
+    <display-name lang="es">MTV (750)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="MTV HITS (751)">
+    <display-name lang="es">MTV HITS (751)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="MTV DANCE (752)">
+    <display-name lang="es">MTV DANCE (752)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="VH1 (753)">
+    <display-name lang="es">VH1 (753)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="VH1 CLASSIC (754)">
+    <display-name lang="es">VH1 CLASSIC (754)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="MTV HD (770)">
+    <display-name lang="es">MTV HD (770)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="ALLEGRO HD (771)">
+    <display-name lang="es">ALLEGRO HD (771)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="VENUS (850)">
+    <display-name lang="es">VENUS (850)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="PLAYBOY (851)">
+    <display-name lang="es">PLAYBOY (851)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="BRAZZERS TV (852)">
+    <display-name lang="es">BRAZZERS TV (852)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="PENTHOUSE (853)">
+    <display-name lang="es">PENTHOUSE (853)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="SEXTREME (854)">
+    <display-name lang="es">SEXTREME (854)</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+</tv>
